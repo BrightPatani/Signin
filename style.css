@@ -169,7 +169,7 @@ body{
     }
   
     #left {
-      justify-content: center;
+      justify-content: start;
       margin-top: 4vh;
     }
   
