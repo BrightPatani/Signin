@@ -72,6 +72,7 @@ body{
     height: 50px;
     padding: 0.5rem 1rem;
     line-height: 1.3rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
 .socials {
@@ -82,6 +83,7 @@ body{
 .social-btn img {
     display: block;
     width: 50px;
+    border-radius: 50%;
     height: auto;
     transition: transform 0.5s ease, box-shadow 0.5s ease;/
 }
@@ -105,6 +107,10 @@ body{
     text-decoration: none;
     color: #4d2714;
     font-weight: 600;
+}
+
+button {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 
